@@ -1,0 +1,2 @@
+odometer,condition_excellent,condition_fair,condition_good,condition_like new,condition_new,fuel_diesel,fuel_electric,fuel_gas,fuel_hybrid,fuel_other,transmission_automatic,transmission_manual,transmission_other,drive_4wd,drive_fwd,drive_rwd,type_freq,manufacturer_freq,paint_color_freq,car_age_freq,cylinders_freq
+95000,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0.027245618476946,0.0650828480603145,0.1515458407179227,0.0639716431766393,0.3593974175035868
